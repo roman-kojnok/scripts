@@ -9,7 +9,7 @@
 
 ## LAMP Install:
 - lamp01_apache.sh
-- lamp02_mysql.sh#
+- lamp02_mysql.sh
 - lamp03_php.sh
 - lamp04_post.md
 
@@ -17,4 +17,5 @@
 - azure-ubuntu-jenkins.sh
 
 ## Metasploit Framework install:
+```testing stage```
 - metasploit_ubuntu.sh
