@@ -15,3 +15,6 @@
 
 ## Azure Ubuntu Jenkins:
 - azure-ubuntu-jenkins.sh
+
+## Metasploit Framework install:
+- metasploit_ubuntu.sh
